@@ -57,3 +57,19 @@ Now you can use the "Simple Grade Manager" in your device.
 
 # Installastion-&-Running
 
+You can also use git bash to install the project.
+
+Requirements:-
+
+<1> Git Bash : https://git-scm.com/download/win
+
+
+After you install git bash, use below code in cmd or window power shell
+
+git clone https://github.com/Pratik-Bansal-0862/Simple-Grade-Manager/
+
+cd Simple-Grade-Manager
+
+python db.py
+
+python main.py
