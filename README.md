@@ -19,13 +19,12 @@ Note:- If you want to use my project in your device, your device must have Pytho
 
 ### Requirements 
 
-- <strong> <1> Python3 +
+- <strong> Python3 + </strong>
 
-<2> MySQL Database
+- <strong> MySQL Database </strong>
 
-<3> mysql-connector-python
+- <strong> mysql-connector-python </strong>
 
-</strong>
 
 
 STEP 1:-
