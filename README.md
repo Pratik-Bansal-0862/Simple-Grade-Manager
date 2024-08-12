@@ -1,4 +1,4 @@
-# Simple-Grade-Manager
+### Simple-Grade-Manager
 A Student Grade Checking System Made Using Python And MySQL. 
 
 It is easy to use and have 5 features - <1> Add Students, <2> Modify, <3> Delete, <4> Show All, <5> Search.
@@ -55,8 +55,9 @@ Now you can use the "Simple Grade Manager" in your device.
 
 
 
-# Installastion-&-Running
-
+### Installastion-&-Running
+<pure>
+  
 You can also use git bash to install the project.
 
 Requirements:-
@@ -73,3 +74,7 @@ cd Simple-Grade-Manager
 python db.py
 
 python main.py
+
+</pure>
+<hr>
+<\
