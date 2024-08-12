@@ -55,5 +55,5 @@ Now you can use the "Simple Grade Manager" in your device.
 
 
 
-#Installastion-&-Running
-https://github.com/Pratik-Bansal-0862/Simple-Grade-Manager/blob/main/Installation%20%26%20Running
+# Installastion-&-Running
+
