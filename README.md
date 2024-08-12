@@ -24,7 +24,7 @@ pdf: [SIMPLE GRADE MANAGER.pdf](https://github.com/user-attachments/files/165794
 
 
 
-Note:- If you want to use my project in your device, your device must have Python3 or higher version and MySQL Database with mysql-cnnector-python.
+Note:- If you want to use my project in your device, your device must have Python3 or higher version and MySQL Database with mysql-connector-python.
 
 
 ### Requirements 
